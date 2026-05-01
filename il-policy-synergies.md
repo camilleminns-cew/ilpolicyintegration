@@ -9,7 +9,7 @@ graph TD
     E -->|Affordability Stabilization| G
     F -->|Crisis Prevention| G
     
-    G -->|Ready for Upgrades| H[EEUP Inclusive Investment]
+    G -->|Ready for Upgrades| H[Non-Debt Based Utility Energy Efficiency Programs, e.g. EEUP]
     H -->|Equipment Cost Coverage| I[VPP-Eligible Technology Installation]
     
     I -->|Enrollment| J[CRGA VPP Programs]
